@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zeljko-ju
+- 👋 Hi, I’m Zeljko
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Edunova
